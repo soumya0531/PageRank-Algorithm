@@ -1,7 +1,7 @@
 # PageRank-Algorithm
 
 #### Contents
-#### graph.py
+### graph.py
 This module takes care of generating and visualizing a randomised Graph object with a specified number of nodes and edges.
 This graph will be treated as a Web-Network with links as edges and pages as the nodes.
 
